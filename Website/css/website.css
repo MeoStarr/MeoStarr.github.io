@@ -50,6 +50,10 @@ color: #ffffff;
 
 }
 
+.card {
+	width: 300px;
+}
+
 .jumbotron {
 	background-color: #b1a9c2;
 	border-radius: 10px;
