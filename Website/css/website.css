@@ -1,0 +1,70 @@
+.logo-img{
+	width: 80px;
+}
+
+.btn {
+  border-radius: 5px;
+  border: 10px;
+ background-color: #594b76;
+ color: #b2a9c2;
+
+}
+.btn-2 {
+  border-radius: 5px;
+  border: 10px;
+ background-color: #1b1034;
+ color: #b2a9c2;
+
+}
+
+.btn:active {
+color: #ffffff;
+}
+
+.bg {
+	background-color: #1b1034;
+}
+
+.bg-1 {
+	background-color: #524770;
+}
+
+.bg-2 {
+	background-color: #000000;
+}
+
+
+.nav {
+
+}
+
+.active {
+	color:#ffffff ;
+}
+
+.carousel {
+	display: flex;
+	gap: 1em;
+	width: 100%;
+	overflow: auto;
+
+}
+
+.jumbotron {
+	background-color: #b1a9c2;
+	border-radius: 10px;
+}
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+.hero-img {
+  background-image: url("sponge.jpg");
+  height: 800px;
+  background-position: center;
+  
+}
+
